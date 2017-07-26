@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UITests.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Browser" Type="UITests.WebDriverLib.BrowserType" Scope="User">
+      <Value Profile="(Default)">Chrome</Value>
+    </Setting>
+    <Setting Name="Environment" Type="UITests.WebDriverLib.EnvironmentType" Scope="User">
+      <Value Profile="(Default)">PreProd</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
